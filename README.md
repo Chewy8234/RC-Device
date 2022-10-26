@@ -10,3 +10,6 @@ The purpose of this project is through building and programming real life remote
 
 ## Acknowledgments
 * https://docs.sunfounder.com/projects/picar-x/en/latest/index.html
+
+## Code related Device Structure
+* ![Sample Image](Device_structure_image/pan_tilt_servo.png)
