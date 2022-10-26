@@ -12,6 +12,7 @@ The purpose of this project is through building and programming real life remote
 * https://docs.sunfounder.com/projects/picar-x/en/latest/index.html
 
 ## Code related Device Structure
-1. ![Sample Image](Device_structure_image/pan_tilt_servo.png)
+1. 
+![Sample Image](Device_structure_image/pan_tilt_servo.png)
 * `set_camera_servo1_angle`: Turns the Pan servo to a specific `angle`.
 * `set_camera_servo2_angle`: Turns the Tilt servo to a specific `angle`. 
