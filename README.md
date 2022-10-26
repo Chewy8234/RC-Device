@@ -8,7 +8,7 @@ The purpose of this project is through building and programming real life remote
 * SunFounder Raspberry Pi Smart Video Robot Car Kit for Raspberry Pi, Python/Blockly (Like Scratch), Web Control, Line Tracking, Raspberry Pi Robot Kits for Teens and Adults (Raspberry Pi NOT Included) 
 
 
-## Acknowledgments
+## Acknowledgments/ Reference
 * https://docs.sunfounder.com/projects/picar-x/en/latest/index.html
 
 ## Code related Device Structure
