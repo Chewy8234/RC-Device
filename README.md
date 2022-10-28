@@ -1,3 +1,6 @@
+# current progress
+Still trying to build the car, while testing it with code example
+
 # RC-Device
 RC device project is a class project for CNT 4104 - Software Proj Comp Networks.<br />
 The purpose of this project is through building and programming real life remote device, learning knowledge on network.<br />
