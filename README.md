@@ -19,3 +19,7 @@ The purpose of this project is through building and programming real life remote
 ![Sample Image](Device_structure_image/pan_tilt_servo.png)
 * `set_camera_servo1_angle`: Turns the Pan servo to a specific `angle`.
 * `set_camera_servo2_angle`: Turns the Tilt servo to a specific `angle`. 
+
+https://www.youtube.com/watch?v=pVayQiLgPK0
+# Car Moving
+The timnes of 31:00 to 34:00 shows how the car is moving form the phone and how the user will be able to use the camera as well. 
