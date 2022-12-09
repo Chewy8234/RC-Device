@@ -76,7 +76,7 @@ def carcontrol():
     carstate = init()
     while carstate != "stop":
         userinput = askcontrol()
-        carstate = update(carstate,carstate)
+        carstate = update(carstate,userinput)
         move(carstate)
 
 if __name__ == "__main__":
