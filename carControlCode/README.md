@@ -5,4 +5,7 @@ color detection implemented<br />
 enter 192.168.18.152:9000/mjpg in your browser to view the video
 * Before you run the code, you need to open the file and change the “MakerStarsHall” and
 “sunfounder” into your WLAN on the WiFi().write() function. 
+```python
+WiFi().write('CN', 'MakerStarsHall', 'sunfounder')
+```
 *  Replace 192.168.18.152 with your own RPi IP
