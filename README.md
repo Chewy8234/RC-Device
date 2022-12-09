@@ -51,3 +51,4 @@ sudo python3 1.move.py
 ```
 ![Sample Image](Device_structure_image/step5.png)
 ### 5. Result
+https://github.com/Chewy8234/RC-Device/blob/main/Device_structure_image/IMG_6186%20(1)%20(1).mp4
