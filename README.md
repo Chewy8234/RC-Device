@@ -19,7 +19,7 @@ The purpose of this project is through building and programming real life remote
 * https://github.com/sunfounder/picar-x.git
 
 ## Steps
-# 1. Connect the Raspberry Pi to the Internet. 
+### 1. Connect the Raspberry Pi to the Internet. 
 * You need to modify a Wi-Fi configuration file wpa_supplicant.conf in the Micro SD card by your PC that is located in the directory /etc/wpa_supplicant/
 * For linux: access the directory directly to modify the configuration file
 * For windows:if your PC use Windows system, then you can’t access the directory and what you need next is to go to the directory, /boot/ to create a new file with the same name, wpa_supplicant.conf.
