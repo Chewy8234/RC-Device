@@ -44,3 +44,9 @@ priority=1
 ![Sample Image](Device_structure_image/step3.png)
 * When the PuTTY window prompts “login as:”, type in “pi” (the user name of theRPi), and password: “raspberry” (the default one, if you haven’t changed it). <br />
 ![Sample Image](Device_structure_image/step4.png)
+### 4. Send .py to the car to work through putty
+Example with 1.move.py:
+```
+sudo python3 1.move.py
+```
+![Sample Image](Device_structure_image/step5.png)
