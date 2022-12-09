@@ -8,9 +8,14 @@ The purpose of this project is through building and programming real life remote
 * Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB)
 * SunFounder Raspberry Pi Smart Video Robot Car Kit for Raspberry Pi, Python/Blockly (Like Scratch), Web Control, Line Tracking, Raspberry Pi Robot Kits for Teens and Adults (Raspberry Pi NOT Included) 
 
+## Application used
+* Putty - a network protocol used to allow secure access to a UNIX terminal
+
+## Language used
+* Python
 
 ## Acknowledgments/ Reference
-* https://docs.sunfounder.com/projects/picar-x/en/latest/index.html
+* https://github.com/sunfounder/picar-x.git
 
 ## Code related Device Structure
 1. 
@@ -21,3 +26,5 @@ The purpose of this project is through building and programming real life remote
 https://www.youtube.com/watch?v=pVayQiLgPK0
 # Car Moving
 The timnes of 31:00 to 34:00 shows how the car is moving form the phone and how the user will be able to use the camera as well. 
+
+
