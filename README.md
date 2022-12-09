@@ -40,6 +40,7 @@ priority=1
 * Network Segment Scanning
 
 ### 3. Build connection for remote control by Putty
-* Open PuTTY. Enter the IP address of the RPi in the text box under Host Name (or IP address) and 22 under Port (by default it is 22). Click Open
+* Open PuTTY. Enter the IP address of the RPi in the text box under Host Name (or IP address) and 22 under Port (by default it is 22). Click Open<br />
 ![Sample Image](Device_structure_image/step3.png)
-
+* When the PuTTY window prompts “login as:”, type in “pi” (the user name of theRPi), and password: “raspberry” (the default one, if you haven’t changed it). <br />
+![Sample Image](Device_structure_image/step4.png)
