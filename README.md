@@ -4,7 +4,7 @@ RC device project is a class project for CNT 4104 - Software Proj Comp Networks.
 The purpose of this project is through building and programming real life remote device, learning knowledge on network.<br />
 
 ## What the code do
-[check readme here](../RC-Device/carControlCode/README.md)
+The code will provide basic control to the Picar base on user input
 
 ## Device used
 * Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB)<br />
