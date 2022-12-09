@@ -1,5 +1,3 @@
-# current progress
-Still trying to build the car, while testing it with code example
 
 # RC-Device
 RC device project is a class project for CNT 4104 - Software Proj Comp Networks.<br />
