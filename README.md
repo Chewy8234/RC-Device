@@ -35,6 +35,11 @@ key_mgmt=WPA-PSK
 priority=1
 }
 ```
+### 2. Get the IP Address
+* Checking via Router
+* Network Segment Scanning
 
-
+### 3. Build connection for remote control by Putty
+* Open PuTTY. Enter the IP address of the RPi in the text box under Host Name (or IP address) and 22 under Port (by default it is 22). Click Open
+![Sample Image](Device_structure_image/step3.png)
 
